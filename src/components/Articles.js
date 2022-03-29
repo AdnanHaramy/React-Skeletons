@@ -34,12 +34,7 @@ const Articles = () => {
                             </div>
                         )
                     }
-                    {/* <SkeletonArticle />
-                    <SkeletonArticle />
-                    <SkeletonArticle />
-                    <SkeletonArticle />
-                    <SkeletonArticle />
-                    <SkeletonArticle /> */}
+                  
                 </div>
             )
             }

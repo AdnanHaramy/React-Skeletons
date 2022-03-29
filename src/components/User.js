@@ -30,7 +30,6 @@ const User = () => {
                         <div key={skeletonProfile} >
                             <SkeletonProfile />
                         </div>
-
                     )}
                 </div>
             )}
